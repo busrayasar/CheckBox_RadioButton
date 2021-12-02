@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d6b5dee-7414-4ea9-8755-1becf5cdd7c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Spinner2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spinner2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spinner2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spinner2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spinner2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spinner2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spinner2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spinner2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spinner2/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spinner2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spinner2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spinner2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spinner2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spinner2/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TT apps/.idea/apps.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TT apps/DigitalDepo_V2_Android-master-358db55ecf58fad13c9d62242be4d31eb9414095/.idea/DigitalDepo_V2_Android-master-358db55ecf58fad13c9d62242be4d31eb9414095.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="20avo9vT4aRBARW6utcEitJfjKS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d6b5dee-7414-4ea9-8755-1becf5cdd7c7" name="Default Changelist" comment="" />
+      <created>1636295685493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636295685493</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
