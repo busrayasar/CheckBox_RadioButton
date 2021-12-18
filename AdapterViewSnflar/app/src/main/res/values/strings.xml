@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AdapterViewSınıfları</string>
+
+    <string-array name="Categories">
+        <item>motor</item>
+        <item>elektrik</item>
+        <item>kaporta</item>
+        <item>mekanik</item>
+    </string-array>
+
+
+    <string name="prompt">Kategori seçiniz</string>
+</resources>
